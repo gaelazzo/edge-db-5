@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.218
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test", "test\test.csproj", "{2BEF3F86-6F7B-4039-B0CD-93EE4FA605C4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "edge-db-5", "edge-db-5\edge-db-5.csproj", "{992143A8-64D8-4E3C-88CF-148736A6BA43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BEF3F86-6F7B-4039-B0CD-93EE4FA605C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BEF3F86-6F7B-4039-B0CD-93EE4FA605C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BEF3F86-6F7B-4039-B0CD-93EE4FA605C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BEF3F86-6F7B-4039-B0CD-93EE4FA605C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{992143A8-64D8-4E3C-88CF-148736A6BA43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{992143A8-64D8-4E3C-88CF-148736A6BA43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{992143A8-64D8-4E3C-88CF-148736A6BA43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{992143A8-64D8-4E3C-88CF-148736A6BA43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30003335-2862-45F5-B933-9F04D0AEEC2B}
+	EndGlobalSection
+EndGlobal
