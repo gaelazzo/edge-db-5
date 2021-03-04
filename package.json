@@ -8,6 +8,10 @@
     "javascript",
     ".net"
   ],
+  "main": "lib/edge-db-5.js",
+  "engines": {
+    "node": ">= 0.6"
+  },
   "licenses": [
     {
       "type": "Apache",

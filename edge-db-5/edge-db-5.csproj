@@ -5,6 +5,15 @@
     <RootNamespace>edge_db_5</RootNamespace>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>..\lib</OutputPath>
+  </PropertyGroup>
+
+ <PropertyGroup>
+   <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+   <AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
+ </PropertyGroup>
+ 
   <ItemGroup>
     <PackageReference Include="MySql.Data" Version="8.0.23" />
     <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
