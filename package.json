@@ -1,0 +1,26 @@
+{
+  "name": "edge-db-5",
+  "version": "2.0.0",
+  "description": "Access any database from Node.js using Edge.js and ADO.NET",
+  "tags": [
+    "sqlServer",
+    "mySql",
+    "javascript",
+    ".net"
+  ],
+  "licenses": [
+    {
+      "type": "Apache",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "dependencies": {},
+  "homepage": "https://github.com/gaelazzo/edge-db-5",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaelazzo/edge-db-5"
+  },
+  "bugs": {
+    "url": "http://github.com/gaelazzo/edge-db-5/issues"
+  }
+}
